@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">d76954941b22101015f4fcc8cc4bcb9d</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 08:24:03</sys_created_on>
+        <sys_id>d9a2f4a21b43101015f4fcc8cc4bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Shopping list" source="x_523523_shopping">2132bcee1b03101015f4fcc8cc4bcb6f</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 08:24:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
